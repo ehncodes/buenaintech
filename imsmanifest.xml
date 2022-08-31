@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5zt5uHwRDTv" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Buena Jill Galleposo | EdTech</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Buena_Jill_Galleposo_|_EdTech_ORG">
+    <organization identifier="Buena_Jill_Galleposo_|_EdTech_ORG">
+      <title>Buena Jill Galleposo | EdTech</title>
+      <item identifier="Buena_Jill_Galleposo_|_EdTech_SCO" isvisible="true" identifierref="__5zt5uHwRDTv_RES">
+        <title>Buena Jill Galleposo | EdTech</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5zt5uHwRDTv_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/61rpiR9U4pb.png" />
+      <file href="mobile/63hoGO5XjDR.png" />
+      <file href="mobile/5nSPCCQ8uBB.png" />
+      <file href="mobile/5vKsujQOFen_P_97_168_824_772.png" />
+      <file href="story_content/6kTUx3QCOpw_44100_48_0.mp3" />
+      <file href="story_content/5WdeFnDDTwc_44100_48_0.mp3" />
+      <file href="story_content/5fYIUpjenwN_44100_48_0.mp3" />
+      <file href="mobile/5xXpWTWrCyb.png" />
+      <file href="story_content/6pkLSF5XiCM_44100_48_0.mp3" />
+      <file href="story_content/6LIHKYIkKXw_44100_48_0.mp3" />
+      <file href="mobile/5bfkrw3sSJv.png" />
+      <file href="story_content/63T8fFLhTMK_44100_48_0.mp3" />
+      <file href="mobile/5pDbnphgBNP_P_121_7_593_602.png" />
+      <file href="mobile/6im1PrCPmA2.png" />
+      <file href="mobile/6cUVYvpt0Qd.png" />
+      <file href="mobile/6EBPTAwaCgL_XY.png" />
+      <file href="story_content/5aBcaWnm9HA_44100_48_0.mp3" />
+      <file href="mobile/5z4EM8w4YMl.png" />
+      <file href="mobile/6qzYPRFeMhd_P_12_0_275_146.png" />
+      <file href="mobile/6UWeMNIpCEh.png" />
+      <file href="mobile/6UD7fGqDlbJ.png" />
+      <file href="mobile/6Q0veJsDXZj.png" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6NCIgLzBnoS.png" />
+      <file href="mobile/5dg0MkOyM8k_B20.gif" />
+      <file href="mobile/6MtRS3Cd50K.png" />
+      <file href="mobile/5o49jUQIQ9m_RS.gif" />
+      <file href="story_content/5kEuGEly1ez_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="mobile/5uMIsbDTGj1.png" />
+      <file href="story_content/6m34tBE7qEy.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5az3f7H8Zce.png" />
+      <file href="mobile/Shape6KpjCABgcgv.png" />
+      <file href="mobile/txt__default_6Cdmd1YSDIG.png" />
+      <file href="mobile/txt__default_6OwiMjeyYLB.png" />
+      <file href="mobile/Shape6qKLayGcClT.png" />
+      <file href="mobile/Shape6lOqb6nQ2OW.png" />
+      <file href="mobile/Shape6T4gHtVpAVH.png" />
+      <file href="mobile/Shape5neGt3q6Keg.png" />
+      <file href="mobile/Shape5jPdhLkj9W9.png" />
+      <file href="mobile/Shape6F7bbqMpsGr.png" />
+      <file href="mobile/Shape6WGv5Xgaj5G.png" />
+      <file href="mobile/Shape6bpAr4etDDK.png" />
+      <file href="mobile/Shape6WMWn6wXCZC.png" />
+      <file href="mobile/Shape6D260mEgrGF.png" />
+      <file href="mobile/Shape61SjHiT1bE0.png" />
+      <file href="mobile/Shape6VsBlHGOMWe.png" />
+      <file href="mobile/Shape6d5pMiChx3e.png" />
+      <file href="mobile/Shape6WdAxM1OpEE.png" />
+      <file href="mobile/Shape5biNPkkaSBn.png" />
+      <file href="mobile/Shape6QY2tC029ae.png" />
+      <file href="mobile/Shape5lDLj8PN4Dv.png" />
+      <file href="mobile/Shape6I3KZhqgFJe.png" />
+      <file href="mobile/Shape6QdyZuD0uaX.png" />
+      <file href="mobile/Shape6Dv9TCiYQ8t.png" />
+      <file href="mobile/Shape6Jb9KwoZNrM.png" />
+      <file href="mobile/Shape61sUHjWr7JV.png" />
+      <file href="mobile/Shape60GETodGQaB.png" />
+      <file href="mobile/Shape6c4wG0y48Gd.png" />
+      <file href="mobile/Shape5i3WhqEpRBc.png" />
+      <file href="mobile/Shape6PkRdxDKIO1.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5Xqkwc503i2.js" />
+      <file href="html5/data/js/5ZXu2SPJGd2.js" />
+      <file href="html5/data/js/60N4m05KpfC.js" />
+      <file href="html5/data/js/69tHYLWjxoD.js" />
+      <file href="html5/data/js/6d9XDXkVjr0.js" />
+      <file href="html5/data/js/6PFTRYXVQEr.js" />
+      <file href="html5/data/js/6QB4jt6Dx0K.js" />
+      <file href="html5/data/js/6XOkKFzV3bs.js" />
+      <file href="html5/data/js/6Y2acuMC2ep.js" />
+      <file href="html5/data/js/6Yp5PEyXVi9.js" />
+      <file href="html5/data/js/6ZXZBNjJGBm.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
